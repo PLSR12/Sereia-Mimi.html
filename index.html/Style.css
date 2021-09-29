@@ -1,0 +1,52 @@
+*
+{background-color:rgb(236, 17, 163)}
+    
+
+h1 { font-family: 'Segoe Script';
+   font-size: 125px;
+   text-align: center; color:white
+   
+  } 
+ 
+ h2 { 
+   font-family: 'Segoe Script';
+   font-size: 55px;
+   text-align: justify; color:white 
+ }
+ 
+
+  h3 {font-family: 'Segoe Script';
+   font-size: 55px;
+   text-align: justify; color:white
+ }
+  
+  
+  h4 {font-family: 'Segoe Script';
+   font-size: 55px;
+   text-align: justify; color:white
+ 
+
+  }
+ 
+  P5 {font-family: 'Segoe Script';
+   font-size: 75px;
+   text-align:justify; color:white
+ 
+   }
+   
+ 
+  P1,P2,P3,P4 { 
+   font-family: 'Segoe Script';
+   font-size: 40px;
+  text-align: justify; color:white
+   
+
+  }
+
+  INPUT.MeuInput {
+    
+    cursor: pointer;
+
+
+
+ }

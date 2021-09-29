@@ -1,2 +1,2 @@
-# Sereia-Mimi.html
-Site teste feito para loja de um familiar.
+# Sereia-Mimi
+Site teste feito para loja de um familiar. Projeto em HTML e CSS

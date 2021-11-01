@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="img/logo.png" alt="logo" width="250px">
+  SEREIA MIMI
 </h1>
 
 [We are ONLINE, try Now](https://sereia-mimi.netlify.app) :tada:<br>
